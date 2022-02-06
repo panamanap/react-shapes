@@ -1,0 +1,13 @@
+.input {
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+.input[type='color'] {
+    outline: none;
+    border: none;
+    background-color: inherit;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+}

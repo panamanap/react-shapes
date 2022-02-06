@@ -1,0 +1,9 @@
+@import '../utils/constants';
+
+.main {
+    padding: $padding-block;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}

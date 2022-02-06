@@ -1,0 +1,12 @@
+@import '../utils/constants';
+
+.footer {
+    background-color: $color-block;
+    padding: $padding-block;
+    color: $color-hf-block;
+
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}

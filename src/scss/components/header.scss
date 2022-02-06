@@ -1,0 +1,15 @@
+@import '../utils/constants';
+
+.header {
+    background-color: $color-block;
+    padding: $padding-block;
+    color: $color-hf-block;
+    display: flex;
+    justify-content: space-between;
+
+    h1 {
+        margin: 0;
+        padding: 0;
+        font-weight: normal;
+    }
+}

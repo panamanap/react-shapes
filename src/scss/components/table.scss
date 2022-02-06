@@ -1,0 +1,17 @@
+@import '../utils/constants';
+
+.table {
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: $border-type;
+
+    th,
+    td {
+        border: 1px solid #777;
+    }
+
+    td {
+        padding: 7px 10px;
+    }
+}

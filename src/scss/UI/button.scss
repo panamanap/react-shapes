@@ -1,0 +1,17 @@
+.button {
+    margin: 0;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1px solid #777;
+    font-size: 15px;
+
+    &:active {
+        outline: 3px solid #555;
+        background-color: #fff;
+    }
+}
+
+.button + .button {
+    margin-left: 10px;
+}

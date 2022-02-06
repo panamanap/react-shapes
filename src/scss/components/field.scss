@@ -1,0 +1,12 @@
+@import '../utils/constants';
+
+.field {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: 650px;
+    height: 100%;
+    border: $border-type;
+    position: relative;
+    overflow: hidden;
+}
