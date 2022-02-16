@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-shapes/static/css/main.ee7fd8ad.css",
+    "main.js": "/react-shapes/static/js/main.2ba58010.js",
+    "index.html": "/react-shapes/index.html",
+    "main.ee7fd8ad.css.map": "/react-shapes/static/css/main.ee7fd8ad.css.map",
+    "main.2ba58010.js.map": "/react-shapes/static/js/main.2ba58010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7fd8ad.css",
+    "static/js/main.2ba58010.js"
+  ]
+}
